@@ -1,0 +1,6 @@
+INSERT INTO users (name, email, age) VALUES ("Ali", "ali@mail.com", 25);
+INSERT INTO users (name, email, age) VALUES ("Ahmad", "ahmad@mail.com", 23);
+INSERT INTO users (name, email, age) VALUES ("Usman", "amir@mail.com", 32);
+UPDATE users SET name = "Amir" WHERE email = "amir@mail.com";
+INSERT INTO users (name, email, age) VALUES ("Aslam", "aslam@mail.com", 36);
+UPDATE users SET age = 27 WHERE name = "Ali";

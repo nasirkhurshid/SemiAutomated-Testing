@@ -1,0 +1,6 @@
+Name: Ali, Email: ali@mail.com, Age: 25
+Name: Ahmad, Email: ahmad@mail.com, Age: 23
+Name: Usman, Email: amir@mail.com, Age: 32
+Name: Amir, Email: amir@mail.com, Age: 32
+Name: Aslam, Email: aslam@mail.com, Age: 36
+Name: Ali, Email: ali@mail.com, Age: 27
